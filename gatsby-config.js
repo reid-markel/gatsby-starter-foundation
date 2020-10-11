@@ -79,8 +79,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Reid Markel`,
+        short_name: `Reid  Markel`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,

@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Reid Markel
+tagline: Entreprenuer and Nerd
+featuredImage: /assets/29215955_2010254168988705_1682504930847358976_n (2).jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I like to build and learn things. Like this site for example, it's built on  Gatsby <3.
