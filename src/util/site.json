@@ -2,10 +2,10 @@
   "meta": {
     "title": "Reid Markel",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "A site all about me",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/test.png",
+    "twitterUsername": "@reidmarkel"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
