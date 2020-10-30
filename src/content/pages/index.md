@@ -8,4 +8,4 @@ cta:
   ctaText: About me
   ctaLink: /about
 ---
-I like to build and learn things. Like this site for example, it's built on  Gatsby <3.
+I like to build and learn things. Like this site for example, it's built with Gatsby <3.
